@@ -1,0 +1,22 @@
+
+*.odt
+*~
+*.log
+
+# modelsim
+transcript
+work/
+vsim_stacktrace.vstf
+vsim.wlf
+
+# c
+*.c
+*.s
+*.o
+*.out
+
+# compile
+/Debug
+main
+*.dat
+
