@@ -10,8 +10,6 @@ vsim_stacktrace.vstf
 vsim.wlf
 
 # c
-*.c
-*.s
 *.o
 *.out
 
