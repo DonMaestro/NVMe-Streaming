@@ -3,6 +3,8 @@
 *~
 *.log
 
+**/l1magic*/
+
 # modelsim
 transcript
 work/

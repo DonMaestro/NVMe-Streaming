@@ -1,0 +1,8 @@
+# [home]
+
+# [dir]
+nvme_example/
+*.gen
+.Xil/
+nvme_example.srcs/sources_1/bd/nvme/
+*.cache
